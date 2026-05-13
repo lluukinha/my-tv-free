@@ -18,11 +18,10 @@ MY-TV is a lightweight desktop IPTV player for Windows. Stream your own live cha
 | Radio | ✅ |
 | Gamepad / Steam Deck support | ✅ |
 | 1 playlist | ✅ |
-| Windows | ✅ |
+| Windows / macOS / Linux / Steam Deck | ✅ |
 | EPG TV Guide | Pro only |
 | Multiple playlists | Pro only |
 | PIN lock & channel blocking | Pro only |
-| macOS / Linux / Steam Deck | Pro only |
 | Favourites, custom name & background | Pro only |
 
 ---
